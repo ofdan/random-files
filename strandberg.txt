@@ -1,0 +1,6 @@
+Foo? Hoo? Baz. Foo bar, Foo Foo Baz! Foo bar, baz? Bar? Foo! Hoo? Baz! Foo bar,
+Foo Foo Baz. Foo bar, baz. Bar; Foo. Hoo! Baz! Foo bar, Foo Foo Baz! Foo bar,
+baz; Bar! Foo? Hoo? Baz. Foo bar, Foo Foo Baz! Foo bar, baz. Bar. Foo; Hoo! Baz!
+Foo bar, Foo Foo Baz. Foo bar, baz! Bar; Foo? Hoo. Baz; Foo bar, Foo Foo Baz;
+Foo bar, baz. Bar. Foo? Hoo; Baz? Foo bar, Foo Foo Baz; Foo bar, baz; Bar. Foo;
+Hoo! Baz! Foo bar, Foo Foo Baz. Foo bar, baz? Bar? Foo. Hoo.
